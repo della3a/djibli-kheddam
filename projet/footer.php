@@ -1,3 +1,9 @@
+<!-- ;==========================================
+     ; Title:  Djibli Kheddam project
+     ; Author: Manel Kheffache, Anais Tinhinane Amara, Kenza Benbouabdellah & Bilal Si Said 
+     ; Date:   1 Jul 2020
+     ;========================================== -->
+     
 <footer class="footer">
     <div class="foot">
         
